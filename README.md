@@ -20,11 +20,13 @@
   <p align="center">
   <img src="https://github.com/HESHAM47GAMAL/Vehicle-Direction-and-Hazard-Indicator-Controller/blob/main/pic/schema.png">
 </p>
+
   ### Main Component
   - Atmega 32
   - led
   - switch
   - SW-ROT-3
+  - 
   ## System Architecture
   <p align="center">
   <img src="https://github.com/HESHAM47GAMAL/Vehicle-Direction-and-Hazard-Indicator-Controller/blob/main/pic/system_Architecture.png">
