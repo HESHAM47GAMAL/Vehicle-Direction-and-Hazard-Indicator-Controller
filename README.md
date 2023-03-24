@@ -20,6 +20,7 @@
   <p align="center">
   <img src="https://github.com/HESHAM47GAMAL/Vehicle-Direction-and-Hazard-Indicator-Controller/blob/main/pic/real_task_in_car.png">
 </p>
+
   ## Schematic
   <p align="center">
   <img src="https://github.com/HESHAM47GAMAL/Vehicle-Direction-and-Hazard-Indicator-Controller/blob/main/pic/schema.png">
