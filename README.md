@@ -9,3 +9,8 @@
   - [Pause](#Pause)
   - [Resume](#Resume)
   - [Reset](#Reset)
+  
+  
+  ## Description
+  ⚡Here Simulate Vehicle Direction sign as when driver want turn right press on Right indicator and can give left indicator and can give wait sign 
+  
