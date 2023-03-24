@@ -6,10 +6,10 @@
   - [Finite State Machine](#Finite-State-Machine)
 - [IDE](#IDE)
 - [Demo](#Demo)
-  - [Start](#Start)
-  - [Pause](#Pause)
-  - [Resume](#Resume)
-  - [Reset](#Reset)
+  - [Waiting](#Waiting)
+  - [Right Sign](#Right-Sign)
+  - [Left Sign](#Left-Sign)
+
   
   
   ## Description
@@ -40,6 +40,16 @@
 
 ## IDE
  <p>⚡IDE are Eclipse (Atmel studio to upload code to MCU) & Proteus</p>
+ 
+ 
+##Demo 
+
+### Waiting 
+<p> ⚡Waiting indicator make Right and Left Led high for 500ms and low for 500ms and during 500ms High led on with specific intensity that was setten  in fast PWM </p>
+<p> ⚡ Waiting work If engine power on/off</p>
+<p align="center">
+  <img src="https://github.com/HESHAM47GAMAL/Vehicle-Direction-and-Hazard-Indicator-Controller/blob/main/GIF/press%20waiting%20button%20during%20Engine%20is%20off.gif">
+  </p>
 
   
   
