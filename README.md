@@ -1,8 +1,9 @@
-# Vehicle-Direction-and-Hazard-Indicator-Controller 
+# Vehicle-Direction-and-Hazard-Indicator-Controller 🚗
 - [Description](#Description)
 - [Schematic](#Schematic)
   - [Main Component](#Main-Component)
 - [System Architecture](#System-Architecture)
+  - [Finite State Machine](#Finite-State-Machine)
 - [IDE](#IDE)
 - [Demo](#Demo)
   - [Start](#Start)
@@ -26,9 +27,16 @@
   - led
   - switch
   - SW-ROT-3
-  - 
+
   ## System Architecture
   <p align="center">
   <img src="https://github.com/HESHAM47GAMAL/Vehicle-Direction-and-Hazard-Indicator-Controller/blob/main/pic/system_Architecture.png">
 </p>
+
+  ### Finite State Machine
+  <p align="center">
+  <img src="https://github.com/HESHAM47GAMAL/Vehicle-Direction-and-Hazard-Indicator-Controller/blob/main/pic/FSM.png">
+</p>
+  
+  
   
