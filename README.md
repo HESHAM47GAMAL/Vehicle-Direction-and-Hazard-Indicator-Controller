@@ -37,6 +37,10 @@
   <p align="center">
   <img src="https://github.com/HESHAM47GAMAL/Vehicle-Direction-and-Hazard-Indicator-Controller/blob/main/pic/FSM.png">
 </p>
+
+## IDE
+<p>IDE are Eclipse (Atmel studio to upload code to MCU) & Proteus</p>
+
   
   
   
