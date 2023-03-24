@@ -39,7 +39,7 @@
 </p>
 
 ## IDE
-<p>IDE are Eclipse (Atmel studio to upload code to MCU) & Proteus</p>
+ <p>⚡IDE are Eclipse (Atmel studio to upload code to MCU) & Proteus</p>
 
   
   
